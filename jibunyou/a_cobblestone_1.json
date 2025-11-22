@@ -1,6 +1,15 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "ultra_assyuku:block/cobblestone_1"
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:cobblestone" }
+  },
+  "result": {
+    "item": "ultra_assyuku:a_cobblestone_1",
+    "count": 1
   }
 }
