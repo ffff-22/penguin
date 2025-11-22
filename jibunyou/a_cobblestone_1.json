@@ -1,15 +1,3 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "AAA",
-    "AAA",
-    "AAA"
-  ],
-  "key": {
-    "A": { "item": "minecraft:cobblestone" }
-  },
-  "result": {
-    "item": "ultra_assyuku:a_cobblestone_1",
-    "count": 1
-  }
+  "parent": "ultra_assyuku:block/a_cobblestone_1"
 }
