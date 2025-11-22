@@ -1,3 +1,6 @@
 {
-  "parent": "ultra_assyuku:block/a_cobblestone_1"
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ultra_assyuku:block/cobblestone_1"
+  }
 }
